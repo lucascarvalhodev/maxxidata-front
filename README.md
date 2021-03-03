@@ -1,24 +1,22 @@
-# Web crawling
+Fullstack-challenge Maxxidata
 
-this project was done in react.
-Technical test: Frontend Software Developer
+Contexto
+Em todo aplicativo comercial temos um controle dos profissinais envolvidos no processo sejam usuários, responsáveis, gerentes, administradores, operadores, etc. Por isso um ponto importante de qualquer aplicação é permitir designarmos estas funções ou seja categorizar em tipos estes profissionais. Ex.: ProfissionalAna = Médica, José = Professor...
 
-## Available Scripts
-
-In the project directory, you can run:
+Vamos criar então uma aplicação que nos permita consultar, criar e editar essas informações e manter essa relação entre o profissional e seu tipo.
 
 # `yarn start`
 
-Starts the development server
+iniciar aplicação
 
 # `yarn test`
 
-Run the test suite available in the application
+rodar testes
 
 # `yarn build`
 
-Creates the bundle for publication
+compilar aplicação
 
 # Note
 
-attention it is necessary to create the .env file according to the .env.sample files
+atenção, é necessário criar o arquivo .env de acordo com os arquivos .env.sample
